@@ -2,11 +2,13 @@
 ::before {
   line-height: normal;
 }
+
 /* IMG MODAL CLOSE */
-.btn-close-white{
+.btn-close-white {
   color: black;
   filter: none;
 }
+
 /* <<< Reset CSS >>> */
 body {
   font-family: 'Source Sans Pro', sans-serif;
@@ -1134,6 +1136,7 @@ figure.effect-julia:hover p {
     width: 78%;
   }
 
+
   /* 
   .contact-form,
   .contact-details {
@@ -1223,6 +1226,7 @@ figure.effect-julia:hover p {
     display: block;
   }
 
+ 
   .navbar-button {
     display: flex;
     align-items: center;
@@ -1304,6 +1308,9 @@ figure.effect-julia:hover p {
     margin: 10px 50px;
     padding: 20px 30px 20px 30px;
   }
+.banner-section .simple.logo{
+  margin-top: 40px;
+}
 
   .banner-section .logo-fa {
     margin: 0 auto 30px;
@@ -1311,7 +1318,7 @@ figure.effect-julia:hover p {
 
   .banner-section .simple p {
     font-size: 18px;
-    margin-top: 25px;
+    margin-top: 4px;
   }
 }
 
